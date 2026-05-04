@@ -54,7 +54,7 @@ KotlinDataStructuresLab/
 | 30 | Espejo de Layout de Tienda | Array 2D |
 
 ## Video de Sustentación
-🎥 [Ver video en Loom](PEGA_AQUI_TU_LINK_DE_LOOM)
+🎥 [Ver video en Loom](https://www.loom.com/share/7477f40035c24ef7b1d9dadf2ab03e92)
 
 ## Cómo ejecutar
 1. Abre el proyecto en IntelliJ IDEA
